@@ -105,7 +105,7 @@ Five Unique Favorite Words to Send (Excludes 100 Most Common English Words):
 =======================================================================
 ```
 
-![bar chart of the spread of total messages sent each month]((MonthlySpreadOfMessagesExample.png))
+![bar chart of the spread of total messages sent each month](MonthlySpreadOfMessagesExample.png)
 
 ### Option 3
 
@@ -156,7 +156,7 @@ Provides a breakdown of your time spent on Snapchat in percentages and a pop up 
 =======================================================================
 ```
 
-![pie chart of breakdown of your time spent on Snapchat]((TimeBreakdownExample.png))
+![pie chart of breakdown of your time spent on Snapchat](TimeBreakdownExample.png)
 
 ### Option 0
 
