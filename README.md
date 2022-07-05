@@ -14,6 +14,12 @@ Then, download your private Snapchat data from within the app. Extract the zip f
 
 After running the program, you will need to paste the data folder location into the terminal when prompted.
 
+## Future of the Project
+
+The current version of this project is focused on funcntionality and getting the correct results.
+
+Future versions will attempt to improve run time and parse through the Snapchat data in a more efficient manner.
+Some features run at high polynomial time. Statistics of time breakdowns will be produced shortly.
 
 ## Features
 
